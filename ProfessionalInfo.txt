@@ -1,0 +1,51 @@
+About Me(Overview):
+12 Years of experience in IT industry using Microsoft Technology (.NET). An experienced, disciplined and highly-motivated Technical Lead worked on a wide range of projects in different sectors and geographical locations. An accomplished and good communicator with strong investigation, problem-solving and decision-making skills, combined with a pragmatic approach and sound business acumen. Highly accomplished with a track record in fields such as analysis and gathering, business process mapping and the development of interactive prototypes.
+
+Roles and Responsibilities:
+	Analyzing the Functional Requirement Specifications (FRS) and Additional Design Specifications (ADS) for finding any ambiguity, incompleteness or incorrectness, so that requirements are technically feasible.
+	Requirement Analysis, Design, Implementation, Testing, Deployment and Documentation.
+	Interacting with Business leads for better understanding of the current system issues.
+	Impact analysis of the new requirement or change request on the existing programs initiated by the client.
+	Designing New Components using COBOL and DB2 Database design Concepts.
+	Updating the existing JCL’s to handle the Next Generation changes
+	Performing functional testing and unit testing for batch and online programs using XPEDITER/Trace Master set up.
+	Identify and verify the impact based on the changes in downstream/upstream applications.
+	Prepare and review the Detailed design specification document
+	Coordinating the offshore activities and providing them guidance on day to day activities.
+	Performing Unit Testing, Integration Testing, Regression Testing and Shakeout Testing.
+	Real time bug fix support during acceptance and end-to-end testing.
+	Generating metrics on the performance of the system.
+	Participating in Internal Audits and External Reviews.
+	Involved in the implementation of these changes in production by packaging the application etc.
+	Involved in warranty Support for the releases.
+	Create and develop system applications utilizing standard concepts, practices and procedures.
+	Work closely with other groups like product, business analyst, quality assurance, and project management resources throughout delivery of solutions
+	Provide weekly status reports and time accounting
+	Coordinate and implement new system installations. Perform system walk-through of technical and operational features for new or existing systems
+	Mentor and support other members of the team (both on-shore and off-shore) to assist in completing tasks and meet objectives
+	Monitor upcoming new development activity for potential impact to overall environment
+	Create, review and approve business, functional and technical design specifications for transaction processing applications
+
+Key Skill
+	Programming Languages/Framework
+	ASP.NET, .NET Core, C#, MVC Framework, Web Services, Web API 2.0, LINQ, Entity Framework, SignalR
+	
+	RDBMS / DBMS
+	SQL Server 2005/2008/2012, SSRS, Crystal Report, Oracle 11G
+	
+	Client Side Technologies
+	HTML/HTML5, CSS, JavaScript, JQuery, Ajax
+	
+	Tools
+	Microsoft Visual Studio, Microsoft office 2007/2013, Microsoft Visio 2007, Microsoft Project
+	
+	Other tools Used
+	SVN, GIT, Runscope, Basecamp, Atlassian, Redis Cache
+	
+	Software Component
+	Syncfusion, Shoretel, Firebase, Deepstream, Kafka, StreamSet
+	
+	Cloud Service
+	Azure features like WebApp, Function, APIM, etc.
+	
+
